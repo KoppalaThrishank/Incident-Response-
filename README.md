@@ -1,5 +1,5 @@
 
-# 🛡️ Incident Response Plan & Execution Process
+# 🛡️ Incident Response Plan & Execution Process (Splunk, OSSIM)
 
 This repository documents a hands-on **Incident Response Lifecycle**, covering key phases from **Detection** to **Recovery**, with real-world simulations using **Splunk**, **OSSIM**, and other tools.
 
